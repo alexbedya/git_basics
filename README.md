@@ -1,4 +1,4 @@
-# 2021-11-02-_git_basics
+# 2021-11-02 : Git Traning
 
 - `git init` : create a git repo in current folder.
 	- only need to do this once, do not nest repos
@@ -11,3 +11,7 @@
 -`diff`
 
 -`git log`
+
+#Remotes
+
+ - github
