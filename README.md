@@ -7,3 +7,7 @@
 - `git add <FILE>` : adds the file to your
 
 -`edit`
+
+-`diff`
+
+-`git log`
