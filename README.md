@@ -4,4 +4,4 @@
 	- only need to do this once, do not nest repos
 ` `git status` : tell you the status of the repository
 
-- 1git add <FILE>` : adds the file to your
+- `git add <FILE>` : adds the file to your
