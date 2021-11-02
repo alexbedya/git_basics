@@ -5,3 +5,5 @@
 ` `git status` : tell you the status of the repository
 
 - `git add <FILE>` : adds the file to your
+
+-`edit`
